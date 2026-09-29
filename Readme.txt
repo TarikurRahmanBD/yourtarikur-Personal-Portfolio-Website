@@ -2,7 +2,7 @@
 
 Welcome to the repository of my personal portfolio website! This project is a fully responsive portfolio designed to showcase my journey, projects, skills, and professional services in a clean and modern layout. 
 
-🔗 **Live Link:** [yourtarikur.netlify.app](https://yourtarikur.netlify.app)
+🔗 **Live Link:** [yourtarikur.vercel.app](https://yourtarikur.vercel.app)
 
 ---
 
