@@ -9,7 +9,7 @@ Welcome to the repository of my personal portfolio website! This project is a fu
 ## 👤 Developer & Creator
 *   **Lead Developer & Inventor:** Tarikur Rahman
 *   **GitHub:** [@tarikurrahmanbd](https://github.com/tarikurrahmanbd)
-*   **Portfolio:** [yourtarikur.netlify.app](https://yourtarikur.netlify.app) 
+*   **Portfolio:** [yourtarikur.vercel.app](https://yourtarikur.vercel.app) 
 
 ---
 
